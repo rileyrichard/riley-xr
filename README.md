@@ -1,2 +1,2 @@
 # riley-xr-rig
-## experimental xr rig with physics based hands
+## experimental xr rig with cool hands
